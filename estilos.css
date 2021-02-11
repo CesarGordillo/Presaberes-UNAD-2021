@@ -11,6 +11,7 @@ table {
     width: 90%;
     margin: auto;
     border: 2px solid black;
+    align: center;
 }
 td, th {
     border: 2px solid black;
