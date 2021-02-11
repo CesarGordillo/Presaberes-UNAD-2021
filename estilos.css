@@ -1,21 +1,21 @@
-.titulo{
+.titulo {
     color: blue;
 }
-.encabezado{
+.encabezado {
     color: black
 }
-.table{
+.table {
     font-family: Arial, sans-serif;
     border-collapse: collapse;
     width: 90%;
     margin: auto;
     border: 2px solid black;
 }
-.td, th{
+.td, th {
     border: 2px solid black;
     text-align: justify;
     padding: 5px;
 }
-*{
+* {
     box-sizing: border-box;
 }
