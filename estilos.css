@@ -1,21 +1,26 @@
 .titulo {
     color: blue;
+    text-align: center;
 }
 .encabezado {
     color: black
 }
-.table {
-    font-family: Arial, sans-serif;
+table {
+    font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 90%;
     margin: auto;
     border: 2px solid black;
 }
-.td, th {
+td, th {
     border: 2px solid black;
     text-align: justify;
     padding: 5px;
 }
 * {
     box-sizing: border-box;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
 }
